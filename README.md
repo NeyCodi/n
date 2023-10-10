@@ -1,2 +1,2 @@
-# Novo reopsitorio
+# Novo repositorio
 New Repository
